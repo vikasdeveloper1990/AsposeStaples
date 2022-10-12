@@ -1,0 +1,158 @@
+C:\Staples Code\Printfile-Robot-Gen2 - Copy\PrintRobotConsoleApp\bin\Debug\net6.0\PrintRobotApp.exe
+C:\Staples Code\Printfile-Robot-Gen2 - Copy\PrintRobotConsoleApp\bin\Debug\net6.0\appsettings-Local.json
+C:\Staples Code\Printfile-Robot-Gen2 - Copy\PrintRobotConsoleApp\bin\Debug\net6.0\appsettings.json
+C:\Staples Code\Printfile-Robot-Gen2 - Copy\PrintRobotConsoleApp\bin\Debug\net6.0\PrintRobotApp.deps.json
+C:\Staples Code\Printfile-Robot-Gen2 - Copy\PrintRobotConsoleApp\bin\Debug\net6.0\PrintRobotApp.runtimeconfig.json
+C:\Staples Code\Printfile-Robot-Gen2 - Copy\PrintRobotConsoleApp\bin\Debug\net6.0\PrintRobotApp.dll
+C:\Staples Code\Printfile-Robot-Gen2 - Copy\PrintRobotConsoleApp\bin\Debug\net6.0\ref\PrintRobotApp.dll
+C:\Staples Code\Printfile-Robot-Gen2 - Copy\PrintRobotConsoleApp\bin\Debug\net6.0\PrintRobotApp.pdb
+C:\Staples Code\Printfile-Robot-Gen2 - Copy\PrintRobotConsoleApp\bin\Debug\net6.0\Aspose.PDF.dll
+C:\Staples Code\Printfile-Robot-Gen2 - Copy\PrintRobotConsoleApp\bin\Debug\net6.0\Dapper.dll
+C:\Staples Code\Printfile-Robot-Gen2 - Copy\PrintRobotConsoleApp\bin\Debug\net6.0\DotNetEnv.dll
+C:\Staples Code\Printfile-Robot-Gen2 - Copy\PrintRobotConsoleApp\bin\Debug\net6.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Staples Code\Printfile-Robot-Gen2 - Copy\PrintRobotConsoleApp\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+C:\Staples Code\Printfile-Robot-Gen2 - Copy\PrintRobotConsoleApp\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Staples Code\Printfile-Robot-Gen2 - Copy\PrintRobotConsoleApp\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Staples Code\Printfile-Robot-Gen2 - Copy\PrintRobotConsoleApp\bin\Debug\net6.0\Microsoft.Extensions.Configuration.CommandLine.dll
+C:\Staples Code\Printfile-Robot-Gen2 - Copy\PrintRobotConsoleApp\bin\Debug\net6.0\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\Staples Code\Printfile-Robot-Gen2 - Copy\PrintRobotConsoleApp\bin\Debug\net6.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Staples Code\Printfile-Robot-Gen2 - Copy\PrintRobotConsoleApp\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Json.dll
+C:\Staples Code\Printfile-Robot-Gen2 - Copy\PrintRobotConsoleApp\bin\Debug\net6.0\Microsoft.Extensions.Configuration.UserSecrets.dll
+C:\Staples Code\Printfile-Robot-Gen2 - Copy\PrintRobotConsoleApp\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Staples Code\Printfile-Robot-Gen2 - Copy\PrintRobotConsoleApp\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Staples Code\Printfile-Robot-Gen2 - Copy\PrintRobotConsoleApp\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Staples Code\Printfile-Robot-Gen2 - Copy\PrintRobotConsoleApp\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Staples Code\Printfile-Robot-Gen2 - Copy\PrintRobotConsoleApp\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Staples Code\Printfile-Robot-Gen2 - Copy\PrintRobotConsoleApp\bin\Debug\net6.0\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Staples Code\Printfile-Robot-Gen2 - Copy\PrintRobotConsoleApp\bin\Debug\net6.0\Microsoft.Extensions.Hosting.dll
+C:\Staples Code\Printfile-Robot-Gen2 - Copy\PrintRobotConsoleApp\bin\Debug\net6.0\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Staples Code\Printfile-Robot-Gen2 - Copy\PrintRobotConsoleApp\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Staples Code\Printfile-Robot-Gen2 - Copy\PrintRobotConsoleApp\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Staples Code\Printfile-Robot-Gen2 - Copy\PrintRobotConsoleApp\bin\Debug\net6.0\Microsoft.Extensions.Logging.Configuration.dll
+C:\Staples Code\Printfile-Robot-Gen2 - Copy\PrintRobotConsoleApp\bin\Debug\net6.0\Microsoft.Extensions.Logging.Console.dll
+C:\Staples Code\Printfile-Robot-Gen2 - Copy\PrintRobotConsoleApp\bin\Debug\net6.0\Microsoft.Extensions.Logging.Debug.dll
+C:\Staples Code\Printfile-Robot-Gen2 - Copy\PrintRobotConsoleApp\bin\Debug\net6.0\Microsoft.Extensions.Logging.EventLog.dll
+C:\Staples Code\Printfile-Robot-Gen2 - Copy\PrintRobotConsoleApp\bin\Debug\net6.0\Microsoft.Extensions.Logging.EventSource.dll
+C:\Staples Code\Printfile-Robot-Gen2 - Copy\PrintRobotConsoleApp\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Staples Code\Printfile-Robot-Gen2 - Copy\PrintRobotConsoleApp\bin\Debug\net6.0\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Staples Code\Printfile-Robot-Gen2 - Copy\PrintRobotConsoleApp\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Staples Code\Printfile-Robot-Gen2 - Copy\PrintRobotConsoleApp\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Staples Code\Printfile-Robot-Gen2 - Copy\PrintRobotConsoleApp\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Staples Code\Printfile-Robot-Gen2 - Copy\PrintRobotConsoleApp\bin\Debug\net6.0\Polly.dll
+C:\Staples Code\Printfile-Robot-Gen2 - Copy\PrintRobotConsoleApp\bin\Debug\net6.0\ServiceStack.Interfaces.dll
+C:\Staples Code\Printfile-Robot-Gen2 - Copy\PrintRobotConsoleApp\bin\Debug\net6.0\Sprache.dll
+C:\Staples Code\Printfile-Robot-Gen2 - Copy\PrintRobotConsoleApp\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Staples Code\Printfile-Robot-Gen2 - Copy\PrintRobotConsoleApp\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Staples Code\Printfile-Robot-Gen2 - Copy\PrintRobotConsoleApp\bin\Debug\net6.0\System.Diagnostics.EventLog.dll
+C:\Staples Code\Printfile-Robot-Gen2 - Copy\PrintRobotConsoleApp\bin\Debug\net6.0\System.Diagnostics.PerformanceCounter.dll
+C:\Staples Code\Printfile-Robot-Gen2 - Copy\PrintRobotConsoleApp\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Staples Code\Printfile-Robot-Gen2 - Copy\PrintRobotConsoleApp\bin\Debug\net6.0\System.Security.Cryptography.Pkcs.dll
+C:\Staples Code\Printfile-Robot-Gen2 - Copy\PrintRobotConsoleApp\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Staples Code\Printfile-Robot-Gen2 - Copy\PrintRobotConsoleApp\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Staples Code\Printfile-Robot-Gen2 - Copy\PrintRobotConsoleApp\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Staples Code\Printfile-Robot-Gen2 - Copy\PrintRobotConsoleApp\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Staples Code\Printfile-Robot-Gen2 - Copy\PrintRobotConsoleApp\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Staples Code\Printfile-Robot-Gen2 - Copy\PrintRobotConsoleApp\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Staples Code\Printfile-Robot-Gen2 - Copy\PrintRobotConsoleApp\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Staples Code\Printfile-Robot-Gen2 - Copy\PrintRobotConsoleApp\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Staples Code\Printfile-Robot-Gen2 - Copy\PrintRobotConsoleApp\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Staples Code\Printfile-Robot-Gen2 - Copy\PrintRobotConsoleApp\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.Messages.dll
+C:\Staples Code\Printfile-Robot-Gen2 - Copy\PrintRobotConsoleApp\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.dll
+C:\Staples Code\Printfile-Robot-Gen2 - Copy\PrintRobotConsoleApp\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.PerformanceCounter.dll
+C:\Staples Code\Printfile-Robot-Gen2 - Copy\PrintRobotConsoleApp\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Staples Code\Printfile-Robot-Gen2 - Copy\PrintRobotConsoleApp\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Staples Code\Printfile-Robot-Gen2 - Copy\PrintRobotConsoleApp\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Security.Cryptography.Pkcs.dll
+C:\Staples Code\Printfile-Robot-Gen2 - Copy\PrintRobotConsoleApp\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Staples Code\Printfile-Robot-Gen2 - Copy\PrintRobotConsoleApp\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Staples Code\Printfile-Robot-Gen2 - Copy\PrintRobotConsoleApp\bin\Debug\net6.0\PrintRobot.Services.dll
+C:\Staples Code\Printfile-Robot-Gen2 - Copy\PrintRobotConsoleApp\bin\Debug\net6.0\StaplesCPC.Objects.dll
+C:\Staples Code\Printfile-Robot-Gen2 - Copy\PrintRobotConsoleApp\bin\Debug\net6.0\PrintRobot.Services.pdb
+C:\Staples Code\Printfile-Robot-Gen2 - Copy\PrintRobotConsoleApp\obj\Debug\net6.0\PrintRobotApp.csproj.AssemblyReference.cache
+C:\Staples Code\Printfile-Robot-Gen2 - Copy\PrintRobotConsoleApp\obj\Debug\net6.0\PrintRobotApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Staples Code\Printfile-Robot-Gen2 - Copy\PrintRobotConsoleApp\obj\Debug\net6.0\PrintRobotApp.AssemblyInfoInputs.cache
+C:\Staples Code\Printfile-Robot-Gen2 - Copy\PrintRobotConsoleApp\obj\Debug\net6.0\PrintRobotApp.AssemblyInfo.cs
+C:\Staples Code\Printfile-Robot-Gen2 - Copy\PrintRobotConsoleApp\obj\Debug\net6.0\PrintRobotApp.csproj.CoreCompileInputs.cache
+C:\Staples Code\Printfile-Robot-Gen2 - Copy\PrintRobotConsoleApp\obj\Debug\net6.0\PrintRobotApp.csproj.CopyComplete
+C:\Staples Code\Printfile-Robot-Gen2 - Copy\PrintRobotConsoleApp\obj\Debug\net6.0\PrintRobotApp.dll
+C:\Staples Code\Printfile-Robot-Gen2 - Copy\PrintRobotConsoleApp\obj\Debug\net6.0\ref\PrintRobotApp.dll
+C:\Staples Code\Printfile-Robot-Gen2 - Copy\PrintRobotConsoleApp\obj\Debug\net6.0\PrintRobotApp.pdb
+C:\Staples Code\Printfile-Robot-Gen2 - Copy\PrintRobotConsoleApp\obj\Debug\net6.0\PrintRobotApp.genruntimeconfig.cache
+C:\Staples Code\Shopify\Printfile-Robot-Gen2\PrintRobotConsoleApp\bin\Debug\net6.0\PrintRobotApp.exe
+C:\Staples Code\Shopify\Printfile-Robot-Gen2\PrintRobotConsoleApp\bin\Debug\net6.0\appsettings-Local.json
+C:\Staples Code\Shopify\Printfile-Robot-Gen2\PrintRobotConsoleApp\bin\Debug\net6.0\appsettings.json
+C:\Staples Code\Shopify\Printfile-Robot-Gen2\PrintRobotConsoleApp\bin\Debug\net6.0\PrintRobotApp.deps.json
+C:\Staples Code\Shopify\Printfile-Robot-Gen2\PrintRobotConsoleApp\bin\Debug\net6.0\PrintRobotApp.runtimeconfig.json
+C:\Staples Code\Shopify\Printfile-Robot-Gen2\PrintRobotConsoleApp\bin\Debug\net6.0\PrintRobotApp.dll
+C:\Staples Code\Shopify\Printfile-Robot-Gen2\PrintRobotConsoleApp\bin\Debug\net6.0\ref\PrintRobotApp.dll
+C:\Staples Code\Shopify\Printfile-Robot-Gen2\PrintRobotConsoleApp\bin\Debug\net6.0\PrintRobotApp.pdb
+C:\Staples Code\Shopify\Printfile-Robot-Gen2\PrintRobotConsoleApp\bin\Debug\net6.0\Dapper.dll
+C:\Staples Code\Shopify\Printfile-Robot-Gen2\PrintRobotConsoleApp\bin\Debug\net6.0\DotNetEnv.dll
+C:\Staples Code\Shopify\Printfile-Robot-Gen2\PrintRobotConsoleApp\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+C:\Staples Code\Shopify\Printfile-Robot-Gen2\PrintRobotConsoleApp\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Staples Code\Shopify\Printfile-Robot-Gen2\PrintRobotConsoleApp\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Staples Code\Shopify\Printfile-Robot-Gen2\PrintRobotConsoleApp\bin\Debug\net6.0\Microsoft.Extensions.Configuration.CommandLine.dll
+C:\Staples Code\Shopify\Printfile-Robot-Gen2\PrintRobotConsoleApp\bin\Debug\net6.0\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\Staples Code\Shopify\Printfile-Robot-Gen2\PrintRobotConsoleApp\bin\Debug\net6.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Staples Code\Shopify\Printfile-Robot-Gen2\PrintRobotConsoleApp\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Json.dll
+C:\Staples Code\Shopify\Printfile-Robot-Gen2\PrintRobotConsoleApp\bin\Debug\net6.0\Microsoft.Extensions.Configuration.UserSecrets.dll
+C:\Staples Code\Shopify\Printfile-Robot-Gen2\PrintRobotConsoleApp\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Staples Code\Shopify\Printfile-Robot-Gen2\PrintRobotConsoleApp\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Staples Code\Shopify\Printfile-Robot-Gen2\PrintRobotConsoleApp\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Staples Code\Shopify\Printfile-Robot-Gen2\PrintRobotConsoleApp\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Staples Code\Shopify\Printfile-Robot-Gen2\PrintRobotConsoleApp\bin\Debug\net6.0\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Staples Code\Shopify\Printfile-Robot-Gen2\PrintRobotConsoleApp\bin\Debug\net6.0\Microsoft.Extensions.Hosting.dll
+C:\Staples Code\Shopify\Printfile-Robot-Gen2\PrintRobotConsoleApp\bin\Debug\net6.0\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Staples Code\Shopify\Printfile-Robot-Gen2\PrintRobotConsoleApp\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Staples Code\Shopify\Printfile-Robot-Gen2\PrintRobotConsoleApp\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Staples Code\Shopify\Printfile-Robot-Gen2\PrintRobotConsoleApp\bin\Debug\net6.0\Microsoft.Extensions.Logging.Configuration.dll
+C:\Staples Code\Shopify\Printfile-Robot-Gen2\PrintRobotConsoleApp\bin\Debug\net6.0\Microsoft.Extensions.Logging.Console.dll
+C:\Staples Code\Shopify\Printfile-Robot-Gen2\PrintRobotConsoleApp\bin\Debug\net6.0\Microsoft.Extensions.Logging.Debug.dll
+C:\Staples Code\Shopify\Printfile-Robot-Gen2\PrintRobotConsoleApp\bin\Debug\net6.0\Microsoft.Extensions.Logging.EventLog.dll
+C:\Staples Code\Shopify\Printfile-Robot-Gen2\PrintRobotConsoleApp\bin\Debug\net6.0\Microsoft.Extensions.Logging.EventSource.dll
+C:\Staples Code\Shopify\Printfile-Robot-Gen2\PrintRobotConsoleApp\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Staples Code\Shopify\Printfile-Robot-Gen2\PrintRobotConsoleApp\bin\Debug\net6.0\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Staples Code\Shopify\Printfile-Robot-Gen2\PrintRobotConsoleApp\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Staples Code\Shopify\Printfile-Robot-Gen2\PrintRobotConsoleApp\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Staples Code\Shopify\Printfile-Robot-Gen2\PrintRobotConsoleApp\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Staples Code\Shopify\Printfile-Robot-Gen2\PrintRobotConsoleApp\bin\Debug\net6.0\ServiceStack.Interfaces.dll
+C:\Staples Code\Shopify\Printfile-Robot-Gen2\PrintRobotConsoleApp\bin\Debug\net6.0\Sprache.dll
+C:\Staples Code\Shopify\Printfile-Robot-Gen2\PrintRobotConsoleApp\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Staples Code\Shopify\Printfile-Robot-Gen2\PrintRobotConsoleApp\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Staples Code\Shopify\Printfile-Robot-Gen2\PrintRobotConsoleApp\bin\Debug\net6.0\System.Diagnostics.EventLog.dll
+C:\Staples Code\Shopify\Printfile-Robot-Gen2\PrintRobotConsoleApp\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Staples Code\Shopify\Printfile-Robot-Gen2\PrintRobotConsoleApp\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Staples Code\Shopify\Printfile-Robot-Gen2\PrintRobotConsoleApp\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Staples Code\Shopify\Printfile-Robot-Gen2\PrintRobotConsoleApp\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Staples Code\Shopify\Printfile-Robot-Gen2\PrintRobotConsoleApp\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Staples Code\Shopify\Printfile-Robot-Gen2\PrintRobotConsoleApp\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Staples Code\Shopify\Printfile-Robot-Gen2\PrintRobotConsoleApp\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Staples Code\Shopify\Printfile-Robot-Gen2\PrintRobotConsoleApp\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Staples Code\Shopify\Printfile-Robot-Gen2\PrintRobotConsoleApp\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Staples Code\Shopify\Printfile-Robot-Gen2\PrintRobotConsoleApp\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Staples Code\Shopify\Printfile-Robot-Gen2\PrintRobotConsoleApp\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.Messages.dll
+C:\Staples Code\Shopify\Printfile-Robot-Gen2\PrintRobotConsoleApp\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.dll
+C:\Staples Code\Shopify\Printfile-Robot-Gen2\PrintRobotConsoleApp\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Staples Code\Shopify\Printfile-Robot-Gen2\PrintRobotConsoleApp\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Staples Code\Shopify\Printfile-Robot-Gen2\PrintRobotConsoleApp\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Staples Code\Shopify\Printfile-Robot-Gen2\PrintRobotConsoleApp\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Staples Code\Shopify\Printfile-Robot-Gen2\PrintRobotConsoleApp\bin\Debug\net6.0\PrintRobot.Services.dll
+C:\Staples Code\Shopify\Printfile-Robot-Gen2\PrintRobotConsoleApp\bin\Debug\net6.0\StaplesCPC.Objects.dll
+C:\Staples Code\Shopify\Printfile-Robot-Gen2\PrintRobotConsoleApp\bin\Debug\net6.0\PrintRobot.Services.pdb
+C:\Staples Code\Shopify\Printfile-Robot-Gen2\PrintRobotConsoleApp\obj\Debug\net6.0\PrintRobotApp.csproj.AssemblyReference.cache
+C:\Staples Code\Shopify\Printfile-Robot-Gen2\PrintRobotConsoleApp\obj\Debug\net6.0\PrintRobotApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Staples Code\Shopify\Printfile-Robot-Gen2\PrintRobotConsoleApp\obj\Debug\net6.0\PrintRobotApp.AssemblyInfoInputs.cache
+C:\Staples Code\Shopify\Printfile-Robot-Gen2\PrintRobotConsoleApp\obj\Debug\net6.0\PrintRobotApp.AssemblyInfo.cs
+C:\Staples Code\Shopify\Printfile-Robot-Gen2\PrintRobotConsoleApp\obj\Debug\net6.0\PrintRobotApp.csproj.CoreCompileInputs.cache
+C:\Staples Code\Shopify\Printfile-Robot-Gen2\PrintRobotConsoleApp\obj\Debug\net6.0\PrintRobotApp.csproj.CopyComplete
+C:\Staples Code\Shopify\Printfile-Robot-Gen2\PrintRobotConsoleApp\obj\Debug\net6.0\PrintRobotApp.dll
+C:\Staples Code\Shopify\Printfile-Robot-Gen2\PrintRobotConsoleApp\obj\Debug\net6.0\ref\PrintRobotApp.dll
+C:\Staples Code\Shopify\Printfile-Robot-Gen2\PrintRobotConsoleApp\obj\Debug\net6.0\PrintRobotApp.pdb
+C:\Staples Code\Shopify\Printfile-Robot-Gen2\PrintRobotConsoleApp\obj\Debug\net6.0\PrintRobotApp.genruntimeconfig.cache
+C:\Staples Code\Shopify\Printfile-Robot-Gen2\PrintRobotConsoleApp\bin\Debug\net6.0\Aspose.Drawing.dll
+C:\Staples Code\Shopify\Printfile-Robot-Gen2\PrintRobotConsoleApp\bin\Debug\net6.0\Aspose.Imaging.dll
+C:\Staples Code\Shopify\Printfile-Robot-Gen2\PrintRobotConsoleApp\bin\Debug\net6.0\Aspose.PDF.dll
+C:\Staples Code\Shopify\Printfile-Robot-Gen2\PrintRobotConsoleApp\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Staples Code\Shopify\Printfile-Robot-Gen2\PrintRobotConsoleApp\bin\Debug\net6.0\System.Diagnostics.PerformanceCounter.dll
+C:\Staples Code\Shopify\Printfile-Robot-Gen2\PrintRobotConsoleApp\bin\Debug\net6.0\System.Security.Cryptography.Pkcs.dll
+C:\Staples Code\Shopify\Printfile-Robot-Gen2\PrintRobotConsoleApp\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Diagnostics.PerformanceCounter.dll
+C:\Staples Code\Shopify\Printfile-Robot-Gen2\PrintRobotConsoleApp\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.Pkcs.dll

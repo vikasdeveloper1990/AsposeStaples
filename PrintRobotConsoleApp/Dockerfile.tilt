@@ -1,0 +1,17 @@
+FROM tiltdev/restart-helper:2021-11-03 as restart-helper
+
+#FROM enterprisenonpacr.azurecr.io/dotnet/aspnet:6.0-alpine
+FROM mcr.microsoft.com/dotnet/core/aspnet:3.1-alpine
+
+# add Live Update support
+RUN ["touch", "/tmp/.restart-proc"]
+COPY --from=restart-helper /tilt-restart-wrapper /
+COPY --from=restart-helper /entr /
+
+#fix: sql server accessing: Globalization Invariant Mode is not supported
+RUN apk add icu-libs
+ENV DOTNET_SYSTEM_GLOBALIZATION_INVARIANT=false
+
+WORKDIR /app
+COPY . /app
+ENTRYPOINT ["dotnet", "PrintRobotApp.dll", "--environment=Production"]

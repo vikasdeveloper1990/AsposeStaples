@@ -1,0 +1,69 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: $K8S_PROJECT-$K8S_ENV-$K8S_APP
+  labels:
+    project: $K8S_PROJECT
+    environment: $K8S_ENV
+    app: $K8S_APP
+spec:
+  replicas: $K8S_APP_REPLICAS
+  selector:
+    matchLabels:
+      project: $K8S_PROJECT
+      environment: $K8S_ENV
+      app: $K8S_APP
+  template:
+    metadata:
+      labels:
+        project: $K8S_PROJECT
+        environment: $K8S_ENV
+        app: $K8S_APP
+        version: "$K8S_VERSION"
+        tags.datadoghq.com/service: $K8S_PROJECT-$K8S_APP
+    spec:
+      nodeSelector:
+        "kubernetes.io/os": linux
+      volumes:
+        - name: app-settings
+          secret:
+            secretName: $K8S_PROJECT-$K8S_ENV-$K8S_APP-app-settings-secret
+        - name: app-afs-share
+          azureFile:
+            secretName: $K8S_APP_AFS_SECRET_NAME
+            shareName: $K8S_APP_AFS_NAME
+            readOnly: false
+      containers:
+        - name: $K8S_PROJECT-$K8S_ENV-$K8S_APP
+          image: $K8S_IMAGE_URI:$K8S_IMAGE_TAG
+          imagePullPolicy: IfNotPresent
+          env:
+            - name: DD_AGENT_HOST
+              valueFrom:
+                fieldRef:
+                  fieldPath: status.hostIP
+            - name: DD_ENV
+              value: sc-$K8S_PROJECT-$K8S_ENV
+            - name: DD_SERVICE
+              valueFrom:
+                fieldRef:
+                  fieldPath: metadata.labels['tags.datadoghq.com/service']
+            - name: DD_VERSION
+              valueFrom:
+                fieldRef:
+                  fieldPath: metadata.labels['version']
+            - name: DD_LOGS_INJECTION
+              value: "true"
+            - name: DD_TRACE_SAMPLE_RATE
+              value: "1"
+            - name: DD_RUNTIME_METRICS_ENABLED
+              value: "true"
+            - name: DD_KUBERNETES_POD_LABELS_AS_TAGS
+              value: '{"project":"app"}'
+          volumeMounts:
+            - name: app-settings
+              mountPath: /app/appsettings.json
+              subPath: appsettings.json
+              readOnly: true
+            - name: app-afs-share
+              mountPath: /mnt/afs

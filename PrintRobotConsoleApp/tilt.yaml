@@ -1,0 +1,28 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: printfile-robot
+spec:
+  selector:
+    matchLabels:
+      app: printfile-robot
+  replicas: 1
+  template:
+    metadata:
+      labels:
+        app: printfile-robot
+    spec:
+      nodeSelector:
+        "beta.kubernetes.io/os": linux
+      containers:
+        - name: printfile-robot
+          image: enterprisenonpacr.azurecr.io/cpc/printfile-robot
+          ports:
+            - containerPort: 80
+          resources:
+            limits:
+              memory: 512Mi
+              cpu: "1"
+            requests:
+              memory: 256Mi
+              cpu: "0.2"

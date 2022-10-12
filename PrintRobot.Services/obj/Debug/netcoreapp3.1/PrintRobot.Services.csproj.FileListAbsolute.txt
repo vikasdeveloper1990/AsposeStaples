@@ -1,0 +1,12 @@
+C:\Staples Code\Shopify\Printfile-Robot-Gen2\PrintRobot.Services\bin\Debug\netcoreapp3.1\PrintRobot.Services.deps.json
+C:\Staples Code\Shopify\Printfile-Robot-Gen2\PrintRobot.Services\bin\Debug\netcoreapp3.1\PrintRobot.Services.dll
+C:\Staples Code\Shopify\Printfile-Robot-Gen2\PrintRobot.Services\bin\Debug\netcoreapp3.1\PrintRobot.Services.pdb
+C:\Staples Code\Shopify\Printfile-Robot-Gen2\PrintRobot.Services\bin\Debug\netcoreapp3.1\StaplesCPC.Objects.dll
+C:\Staples Code\Shopify\Printfile-Robot-Gen2\PrintRobot.Services\obj\Debug\netcoreapp3.1\PrintRobot.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Staples Code\Shopify\Printfile-Robot-Gen2\PrintRobot.Services\obj\Debug\netcoreapp3.1\PrintRobot.Services.AssemblyInfoInputs.cache
+C:\Staples Code\Shopify\Printfile-Robot-Gen2\PrintRobot.Services\obj\Debug\netcoreapp3.1\PrintRobot.Services.AssemblyInfo.cs
+C:\Staples Code\Shopify\Printfile-Robot-Gen2\PrintRobot.Services\obj\Debug\netcoreapp3.1\PrintRobot.Services.csproj.CoreCompileInputs.cache
+C:\Staples Code\Shopify\Printfile-Robot-Gen2\PrintRobot.Services\obj\Debug\netcoreapp3.1\PrintRobot.Services.csproj.CopyComplete
+C:\Staples Code\Shopify\Printfile-Robot-Gen2\PrintRobot.Services\obj\Debug\netcoreapp3.1\PrintRobot.Services.dll
+C:\Staples Code\Shopify\Printfile-Robot-Gen2\PrintRobot.Services\obj\Debug\netcoreapp3.1\PrintRobot.Services.pdb
+C:\Staples Code\Shopify\Printfile-Robot-Gen2\PrintRobot.Services\obj\Debug\netcoreapp3.1\PrintRobot.Services.csproj.AssemblyReference.cache
