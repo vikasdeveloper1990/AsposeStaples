@@ -600,7 +600,7 @@ namespace PrintRobot.Services.PrintServices.VendorServices
                 //document = Shared.Util.CompressOutputFile(document, Shared.Image.Product.PhotoPrintStaples, JobID, _appSettings);
 
                 Console.WriteLine($"Expected path where file to be downloaded onto {System.IO.Path.Combine(_appSettings.OutputPath, JobID + $"{startPage}-{endPage}.pdf")}");
-                document.Save(System.IO.Path.Combine(System.IO.Path.Combine(_appSettings.ImpositionFilePath, JobID + $"{ startPage}-{ endPage}_2.pdf")));
+                //document.Save(System.IO.Path.Combine(System.IO.Path.Combine(_appSettings.ImpositionFilePath, JobID + $"{ startPage}-{ endPage}_2.pdf")));
                 return new DocumentType()
                 {
                     Document = document,
@@ -684,7 +684,7 @@ namespace PrintRobot.Services.PrintServices.VendorServices
 
             watch.Stop();
             Console.WriteLine($"Time taken to generate medicalip value prints 1UP PhotoPrints for JobId:{JobID}  is : {watch.ElapsedMilliseconds} ms");
-            document2.Save(System.IO.Path.Combine(_appSettings.ImpositionFilePath, JobID + $"{startPage}-{endPage}.pdf"));
+            //document2.Save(System.IO.Path.Combine(_appSettings.ImpositionFilePath, JobID + $"{startPage}-{endPage}.pdf"));
             return new DocumentType()
             {
                 Document = document2,
