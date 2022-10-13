@@ -39,6 +39,7 @@
         {
             var watch = new System.Diagnostics.Stopwatch();
             watch.Start();
+
             Document document = new Document(System.IO.Path.Combine(appSettings.OutputPath, JobID + ".pdf"));
             Console.WriteLine($"Now entering Compression logic for Source JobID:{JobID}");
             try
@@ -77,10 +78,15 @@
 
                 pdfDocument.OptimizeResources(optimizeOptions);
                 // Save updated document
-                //pdfDocument.Save(System.IO.Path.Combine(appSettings.OutputPath, JobID + ".pdf"));
+                pdfDocument.Save(System.IO.Path.Combine(appSettings.OutputPath, JobID + ".pdf"));
                 Console.WriteLine($"Now Exiting Compression logic for Source JobID:{JobID}");
-                document.Save(System.IO.Path.Combine(appSettings.OutputPath, JobID + ".pdf"));
                 watch.Stop();
+
+                pdfDocument.Dispose();
+                document.Dispose();
+
+                pdfDocument = null;
+                document = null;
                 Console.WriteLine($"Time taken to compress source mediaclip PhotoPrints for JobId:{JobID}  is : {watch.ElapsedMilliseconds} ms");
 
             }
@@ -131,7 +137,7 @@
                 optimizeOptions.ImageCompressionOptions.Version = Aspose.Pdf.Optimization.ImageCompressionVersion.Fast;
                 pdfDocument.OptimizeResources(optimizeOptions);
                 // Save updated document
-                //pdfDocument.Save(System.IO.Path.Combine(appSettings.OutputPath, JobID + ".pdf"));
+                pdfDocument.Save(System.IO.Path.Combine(appSettings.ImpositionFilePath, JobID + ".pdf"));
                 Console.WriteLine($"Now Exiting Compression logic for JobID:{JobID}");
                 return document;
             }
@@ -252,6 +258,9 @@
 
                 photoPrintDetails.Add(photoPrintImageDetail);
             }
+
+            pdfExtractor.Dispose();
+            pdfExtractor = null;
 
             return photoPrintDetails;
 

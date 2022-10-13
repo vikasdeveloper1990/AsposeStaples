@@ -196,8 +196,8 @@ namespace PrintRobot.Services.PrintServices.PhotoPrintSupportingClasses
                 imageDetails.ImageStream.Dispose();
                 imageDetails.Bitmap.Dispose();
 
-                //imageDetails.ImageStream = null;
-                //imageDetails.Bitmap = null;
+                imageDetails.ImageStream = null;
+                imageDetails.Bitmap = null;
             }
             catch (Exception ex)
             {

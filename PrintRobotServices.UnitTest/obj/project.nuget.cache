@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Q1gJ2kcyGpyaR9LyvawKnM9u7IKjxe5CwW/0BT+BWbVVmqOV8FFzr4MXofPntvjdWx1t5no+nfQ39w2Lxu7Xpg==",
+  "dgSpecHash": "SyJGIN6Myw2UIfcIFxz1eeRSwNrveGRIJTZgp/9pBbSDFQPFFYuN17yXnewmvOZQl2sIEwKkOU5pDo7nzSkJHQ==",
   "success": true,
-  "projectFilePath": "C:\\Staples Code\\MediaClip\\PrintRobotServices.UnitTest\\PrintRobotServices.UnitTest.csproj",
+  "projectFilePath": "C:\\Staples Code\\Shopify\\Printfile-Robot-Gen2\\PrintRobotServices.UnitTest\\PrintRobotServices.UnitTest.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\linvi001\\.nuget\\packages\\aspose.drawing\\22.7.0\\aspose.drawing.22.7.0.nupkg.sha512",
     "C:\\Users\\linvi001\\.nuget\\packages\\aspose.imaging\\22.7.0\\aspose.imaging.22.7.0.nupkg.sha512",

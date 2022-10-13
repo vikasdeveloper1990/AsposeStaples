@@ -8213,11 +8213,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Staples Code\\MediaClip\\PrintRobotServices.UnitTest\\PrintRobotServices.UnitTest.csproj",
+      "projectUniqueName": "C:\\Staples Code\\Shopify\\Printfile-Robot-Gen2\\PrintRobotServices.UnitTest\\PrintRobotServices.UnitTest.csproj",
       "projectName": "PrintRobotServices.UnitTest",
-      "projectPath": "C:\\Staples Code\\MediaClip\\PrintRobotServices.UnitTest\\PrintRobotServices.UnitTest.csproj",
+      "projectPath": "C:\\Staples Code\\Shopify\\Printfile-Robot-Gen2\\PrintRobotServices.UnitTest\\PrintRobotServices.UnitTest.csproj",
       "packagesPath": "C:\\Users\\linvi001\\.nuget\\packages\\",
-      "outputPath": "C:\\Staples Code\\MediaClip\\PrintRobotServices.UnitTest\\obj\\",
+      "outputPath": "C:\\Staples Code\\Shopify\\Printfile-Robot-Gen2\\PrintRobotServices.UnitTest\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -8239,8 +8239,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Staples Code\\MediaClip\\PrintRobot.Services\\PrintRobot.Services.csproj": {
-              "projectPath": "C:\\Staples Code\\MediaClip\\PrintRobot.Services\\PrintRobot.Services.csproj"
+            "C:\\Staples Code\\Shopify\\Printfile-Robot-Gen2\\PrintRobot.Services\\PrintRobot.Services.csproj": {
+              "projectPath": "C:\\Staples Code\\Shopify\\Printfile-Robot-Gen2\\PrintRobot.Services\\PrintRobot.Services.csproj"
             }
           }
         }
