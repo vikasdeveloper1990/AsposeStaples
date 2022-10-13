@@ -150,8 +150,8 @@ namespace PrintRobot.Services.PrintServices.VendorServices
                                         }
                                     }
 
-                                    document.Document.Dispose();
-                                    document.Document = null;
+                                    //document.Document.Dispose();
+                                    //document.Document = null;
                                 }
                             }
 
