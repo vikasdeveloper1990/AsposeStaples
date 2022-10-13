@@ -49,6 +49,7 @@ namespace PrintRobot.Services.PrintServices.VendorServices
         }
         public override Status GeneratePdf(Guid JobID)
         {
+            SetAsposLicesnse();
             var job = _dataService.GetVendorJobByJobId(JobID);
 
             if (job == null || job.JobVendorReference == null || job.JobVendorReference.VendorFiles == null || !job.JobVendorReference.VendorFiles.ContainsKey(VIFileType.Print)
@@ -77,7 +78,7 @@ namespace PrintRobot.Services.PrintServices.VendorServices
                 ServicePointManager.ServerCertificateValidationCallback = delegate { return true; };
                 try
                 {
-                    //job.Type = Job.JobType.MC_PhotoValuePrinting;
+                    job.Type = Job.JobType.MC_PhotoValuePrinting;
                     Console.WriteLine($"Shopify JobType:{job.Type} for JobId: {JobID}");
 
                     if (Job.isShopifyMultiplePdfType(job.Type))
@@ -94,6 +95,9 @@ namespace PrintRobot.Services.PrintServices.VendorServices
                         try
                         {
                             Console.WriteLine($"Http Path for mediaclip PDF in Shopify Service from JobID  : {job.JobVendorReference.VendorFiles[VIFileType.Print][0]}");
+
+                            job.JobVendorReference.VendorFiles[VIFileType.Print][0] = "https://renderstouse.blob.core.windows.net/fbed038e-1345-447a-9842-a1001d63b06d/prints-set-01.pdf?sv=2021-06-08&se=2028-09-04T14%3A22%3A58Z&sr=b&sp=r&sig=75TA0IJt6lDP6EwtcLw9M0PiTC3DUqydtq4xvIeYoqI%3D";
+
                             client.DownloadFile(job.JobVendorReference.VendorFiles[VIFileType.Print][0], System.IO.Path.Combine(_appSettings.OutputPath, JobID + ".pdf"));
 
                             Console.WriteLine($"Applicaion Path where mediaclip PDF is tsored in  : {System.IO.Path.Combine(_appSettings.OutputPath, JobID + ".pdf")}");
@@ -728,6 +732,20 @@ namespace PrintRobot.Services.PrintServices.VendorServices
             }
 
             return photoPrintDetailsDto;
+        }
+
+        private void SetAsposLicesnse()
+        {
+            Aspose.Pdf.License pdflicense = new Aspose.Pdf.License();
+
+            Aspose_Drawing.Aspose.Drawing.License drawinglicense = new Aspose_Drawing.Aspose.Drawing.License();
+
+            _appSettings.AposePDFLicense = "";
+
+            Console.WriteLine($"Aspose License File : {_appSettings.AposePDFLicense}");
+            pdflicense.SetLicense(_appSettings.AposePDFLicense);
+            drawinglicense.SetLicense(_appSettings.AposePDFLicense);
+            pdflicense.Embedded = true;
         }
 
         private List<DocumentType> ExtractandGenerateValueAndSameDayPrints(string docPath, int startPage, int endPage, int maxPage
